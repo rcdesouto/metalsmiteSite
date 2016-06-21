@@ -1,0 +1,9 @@
+{
+  "name": "metalsmith-markdown",
+  "dependencies": {
+    "metalsmith-templates": "^0.7.0"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
